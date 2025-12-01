@@ -1,2 +1,3 @@
-Soy la primaria prueba5
-esto es asi y genero conflictos
+
+Soy la prueba5 y estoy en la rama secundaria
+
